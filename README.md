@@ -4,6 +4,8 @@ The AI project contains some examples of AI that learns to play games. All the c
 
 ## Reinforcement Learning AI
 
+![holes](images/holes.png)
+
 ### Holes
 
 The AI learns how to play Holes. The goal of the game is to go from the starting point (green) to the exit point (red), without falling in the black holes. The AI is rewarded with -1 if it fall in a hole and with +1 if it reaches the end.
